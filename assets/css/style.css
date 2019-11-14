@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Courgette|Quicksand:300,400,500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Quicksand:300,300,500&display=swap');
 
 /* https://coolors.co/d6285c-285fd6-d62828-28d63c-ff5811 */
 
@@ -36,4 +36,8 @@ body, h1, h2, h3, h4, h5, h6, p, label, span, div, a {
     color: #fff;
     background-color: #D6285C !important;
     border-color: #D6285C;
+}
+
+.title-info {
+    font-weight: 300;
 }
