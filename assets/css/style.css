@@ -41,3 +41,25 @@ body, h1, h2, h3, h4, h5, h6, p, label, span, div, a {
 .title-info {
     font-weight: 300;
 }
+
+.contact-input, .contact-input:focus {
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0px;
+    box-shadow: none;
+    
+}
+
+footer {
+    background: #fff6f7;
+    color: black;
+
+}
+
+.link a {
+    color: black;
+}
+
+.link {
+    font-weight: 300;
+}
