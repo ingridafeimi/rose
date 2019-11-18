@@ -74,3 +74,12 @@ footer {
     border-top: 1px solid #ffcbdb54
 
 }
+
+.breadcrumb {
+    background-color: white;
+}
+
+.untitle {
+    font-weight: 300;
+    font-size: 13px;
+}
